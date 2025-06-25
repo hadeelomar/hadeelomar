@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, My Name is Hadeel 👋
+### Hi there, My Name is Hadeel 👋
 
 ## 💻 About Me
 
@@ -55,5 +55,3 @@ class Hadeel {
 
 ---
 ⭐️ From [Hadeel Omar](https://github.com/hadeelomar)
-```
-
