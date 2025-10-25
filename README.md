@@ -33,7 +33,7 @@ class Hadeel {
 }
 ```
 
-💻 Entering my final year of my studies, my passion lies in back-end development and distributed systems. I'm fascinated by the architecture that powers modern applications - from designing efficient APIs and optimising database queries to building scalable server-side solutions that handle real-world traffic. I'm also seeking graduate roles where I can contribute to building robust, high-performance systems whilst learning from experienced engineers.
+💻 In my final year of my studies, my passion lies in back-end development and distributed systems. I'm fascinated by the architecture that powers modern applications - from designing efficient APIs and optimising database queries to building scalable server-side solutions that handle real-world traffic. I'm also seeking graduate roles where I can contribute to building robust, high-performance systems whilst learning from experienced engineers.
 
 ## 🎓 Credentials
 
@@ -42,7 +42,7 @@ class Hadeel {
 - 🎓 Currently I am: Studying Computer Systems Engineering at Queen Mary University of London
 - 📱 Developing my skills in full-stack development, following up on my previous internship as an iOS Engineer at Warner Bros. Discovery, where I worked on the HBO Max streaming service
 - 🚀 Learning more about architectural patterns and CI/CD
-- 💡 Working on my final year full-stack project related to spatial audio/audio rendering to enhance music streaming, using Flask as a back-end
+- 💡 Working on my final year project where I'm developing a WebSocket-based API in Flask for real-time server-side spatial audio processing and binaural rendering.
 
 ## 🔧 Technologies & Tools
 
