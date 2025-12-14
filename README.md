@@ -13,40 +13,56 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, My Name is Hadeel 👋
+![banner](https://github.com/user-attachments/assets/1fffc9f5-2763-4ebb-af47-3dc3823bbdbf)
+
+<h1 align="center">Hi there, My Name is Hadeel 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Computer+Systems+Engineering+Student;Aspiring+Engineer" alt="Typing SVG" />
+</p>
 
 ## 💻 About Me
 
 My name is Hadeel and I am a Computer Systems Engineering student at Queen Mary, University of London :)
 
-```swift
-class Hadeel {
-    let age = 22
-    let hobbies = ["Coding", "Gaming", "Reading", "Music"]
-    let school = "Queen Mary University of London"
-    let degree = "Computer Systems Engineering"
-    let location = "London, UK"
+```java
+public class Hadeel {
+    private int age = 22;
+    private String[] hobbies = {"Coding", "Gaming", "Reading", "Music"};
+    private String school = "Queen Mary University of London";
+    private String degree = "Computer Systems Engineering";
+    private String location = "London, UK";
     
-    init() {
-        print("Hello, I'm Hadeel! 👋")
+    public Hadeel() {
+        System.out.println("Hello, I'm Hadeel! 👋");
+    }
+    
+    public void introduce() {
+        System.out.println("Passionate about back-end development & distributed systems");
     }
 }
 ```
 
 💻 In my final year of my studies, my passion lies in back-end development and distributed systems. I'm fascinated by the architecture that powers modern applications - from designing efficient APIs and optimising database queries to building scalable server-side solutions that handle real-world traffic. I'm also seeking graduate roles where I can contribute to building robust, high-performance systems whilst learning from experienced engineers.
 
-## 🎓 Credentials
-
 ## 📍 What Am I Doing?
 
-- 🎓 Currently I am: Studying Computer Systems Engineering at Queen Mary University of London
-- 📱 Developing my skills in full-stack development, following up on my previous internship as an iOS Engineer at Warner Bros. Discovery, where I worked on the HBO Max streaming service
-- 🚀 Learning more about architectural patterns and CI/CD
-- 💡 Working on my final year project where I'm developing a WebSocket-based API in Flask for real-time server-side spatial audio processing and binaural rendering.
+- 🎓 Studying: Computer Systems Engineering at Queen Mary University of London
+- 📱 Developing: full-stack development skills, building on my iOS Engineering internship experience at Warner Bros. Discovery (HBO Max)
+- 🚀 Learning: architectural patterns, CI/CD pipelines, cloud infrastructure and embedded systems development
+- 💡 Final year project: developing SpatialSocket - a WebSocket-based API in Flask for real-time server-side spatial audio processing and binaural rendering
 
 ## 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,swift,ts,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,swift,ts,js,c,react,docker,aws,sqlite)](https://skillicons.dev)
+
+## 🎯 Areas of Interest
+
+- Database optimisation and design
+- Distributed systems architecture
+- Cloud computing and DevOps
+- API development
+- Security engineering
 
 ## 📫 Connect with me
 
