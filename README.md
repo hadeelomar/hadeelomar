@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi there, My Name is Hadeel 👋
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Computer+Systems+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Student+Computer+Systems+Engineer" alt="Typing SVG" />
 </p>
 
 ## 💻 About Me
