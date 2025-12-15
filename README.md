@@ -35,7 +35,7 @@ public class Hadeel {
     }
     
     public void introduce() {
-        System.out.println("Passionate about back-end development & distributed systems");
+        System.out.println("Final year student developer");
     }
 }
 ```
