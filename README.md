@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![banner](https://github.com/user-attachments/assets/1fffc9f5-2763-4ebb-af47-3dc3823bbdbf)
-
-<h1 align="center">Hi there, My Name is Hadeel 👋</h1>
-
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/1fffc9f5-2763-4ebb-af47-3dc3823bbdbf" alt="Banner" width="600" />
+</p>
+
+## Hi there, My Name is Hadeel 👋
+
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Computer+Systems+Engineering+Student;Aspiring+Engineer" alt="Typing SVG" />
 </p>
 
