@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://hadeelomar.github.io" target="_blank">Hadeel's's</a> GitHub <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
+<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://hadeelomar.github.io" target="_blank">Hadeel's</a> GitHub <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
 🌹 Hello! I'm Hadeel, a computer systems engineering student in my final year of studies. I build things across the stack, from user-facing apps to the infrastructure that supports them. I care about how software feels to use and how it behaves under pressure. ✧ (=w=) ✦ 🌹
