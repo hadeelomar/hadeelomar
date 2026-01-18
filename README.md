@@ -21,7 +21,7 @@
 
 
   <p align="center">
-  ▮ Previously worked as an Apple engineer intern @ Warner Bros. Discovery, contributing to features and improvements for HBO Max for iOS, tvOS and visionOS. That experience helped shaped how I think about performance, reliability and building software used at scale with PRs now deployed to millions of streaming users.  ▮
+  ▮ Previously worked as an Apple engineer intern @ Warner Bros. Discovery, contributing to features and improvements for HBO Max for iOS, tvOS and visionOS. That experience helped shape how I think about performance, reliability and building software used at scale with PRs now deployed to millions of streaming users.  ▮
   </p>
         <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
 
