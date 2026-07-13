@@ -1,30 +1,91 @@
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
+  Welcome to <a href="https://hadeelomar.github.io" target="_blank">Hadeel's</a> GitHub
+  <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
+</h1>
 
-<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://hadeelomar.github.io" target="_blank">Hadeel's</a> GitHub <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
+
 <p align="center">
-🌹 Hello! I'm Hadeel, a computer systems engineering student in my final year of studies. I build things across the stack, from user-facing apps to the infrastructure that supports them. I care about how software feels to use and how it behaves under pressure - from high-level systems down to electronics and hardware details. ✧ (=w=) ✦ 🌹
+🌹 First-Class Honours Computer Systems Engineering graduate and incoming MSc Artificial Intelligence student at Queen Mary University of London. Interested in statistical machine learning, genomics, metabolomics and computational biology. ✧ (=w=) ✦ 🌹
 </p>
+
 <h1> </h1>
+
 <br>
 
-<div float="left" align="center">
-    <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
-  <div>
-     <kbd>
-       <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ App Development ■ Operating System ■ Backend ■ Distributed Systems ■ Web Development ■ Electronics ■ &nbsp; &nbsp;  &nbsp; &nbsp;
-       <br> <br>
-     </kbd>
-  <div>
-    <br>
+<div align="center">
+  <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
 </div>
 
+<br>
 
-  <p align="center">
-  ▮ Previously worked as an Apple engineer intern @ Warner Bros. Discovery, contributing to features and improvements for HBO Max for iOS, tvOS and visionOS. That experience helped shape how I think about performance, reliability and building software used at scale with PRs now deployed to millions of streaming users.  ▮
-  </p>
-        <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
+<p align="center">
+  <kbd>
+    <br>
+    &nbsp; ■ Statistical Machine Learning ■ Genomics ■ Metabolomics ■ Computational Biology ■ Bayesian Methods ■ High-Dimensional Statistics ■ &nbsp;
+    <br><br>
+  </kbd>
+</p>
 
-  <p align="center">
-    ■ 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐢𝐬 𝐚𝐛𝐨𝐮𝐭 𝐜𝐚𝐫𝐞 - 𝐟𝐨𝐫 𝐮𝐬𝐞𝐫𝐬, 𝐟𝐨𝐫 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 𝐚𝐧𝐝 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐭𝐡𝐢𝐧𝐠𝐬 𝐭𝐡𝐚𝐭 𝐥𝐢𝐯𝐞 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 ■
-  </p>
+<br>
+
+<h3 align="center">✦ Main OS ✦</h3>
+
+<p align="center">
+  <img src="./assets/linux-mint.png" width="48" alt="Linux Mint"/>
+</p>
+
+<br>
+
+<h3 align="center">✦ Languages & ML ✦</h3>
+
+<p align="center">
+  <img src="./assets/python.png" width="42" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="./assets/r.png" width="42" alt="R"/>
+  &nbsp;&nbsp;
+  <img src="./assets/c.png" width="42" alt="C"/>
+  &nbsp;&nbsp;
+  <img src="./assets/cpp.png" width="42" alt="C++"/>
+  &nbsp;&nbsp;
+  <img src="./assets/bash.png" width="42" alt="Bash"/>
+  &nbsp;&nbsp;
+  <img src="./assets/sql.png" width="42" alt="SQL"/>
+  &nbsp;&nbsp;
+  <img src="./assets/swift.png" width="42" alt="Swift"/>
+  &nbsp;&nbsp;
+  <img src="./assets/java.png" width="42" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="./assets/pytorch.png" width="42" alt="PyTorch"/>
+</p>
+
+<br>
+
+<h3 align="center">✦ Tools ✦</h3>
+
+<p align="center">
+  <img src="./assets/docker.png" width="42" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img src="./assets/git.png" width="42" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="./assets/jupyter.png" width="42" alt="Jupyter"/>
+  &nbsp;&nbsp;
+  <img src="./assets/aws.png" width="42" alt="AWS"/>
+  &nbsp;&nbsp;
+  <img src="./assets/google-cloud.png" width="42" alt="Google Cloud"/>
+</p>
+
+<br>
+
+<p align="center">
+▮ Previously an Apple Engineer Intern @ Warner Bros. Discovery, contributing to HBO Max across iOS, tvOS and visionOS, with work deployed to millions of users. ▮
+</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
+</p>
+
+<p align="center">
+■ 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐝𝐚𝐭𝐚, 𝐥𝐢𝐬𝐭𝐞𝐧𝐢𝐧𝐠 𝐭𝐨 𝐛𝐢𝐨𝐥𝐨𝐠𝐲 𝐚𝐧𝐝 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐩𝐚𝐭𝐭𝐞𝐫𝐧𝐬 𝐡𝐢𝐝𝐝𝐞𝐧 𝐢𝐧 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 ■
+</p>
