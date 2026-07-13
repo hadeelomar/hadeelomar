@@ -33,7 +33,7 @@
 <h3 align="center">✦ Main OS ✦</h3>
 
 <p align="center">
-  <img src="./assets/os.png" width="150" alt="Linux Mint">
+  <img src="./assets/os.png" width="60" alt="Linux Mint">
 </p>
 
 <br>
