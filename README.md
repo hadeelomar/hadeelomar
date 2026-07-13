@@ -30,20 +30,12 @@
 
 <br>
 
-<h3 align="center">✦ Main OS ✦</h3>
-
-<p align="center">
-  <img src="./assets/os.png" width="60" alt="Linux Mint">
-</p>
-
-<br>
 
 <h3 align="center">✦ Languages & Frameworks ✦</h3>
 
 <p align="center">
   <img src="./assets/languages.png" width="380" alt="Programming languages and frameworks">
 </p>
-
 <br>
 
 <h3 align="center">✦ Tools ✦</h3>
@@ -51,9 +43,13 @@
 <p align="center">
   <img src="./assets/tools.png" width="380" alt="Development and cloud tools">
 </p>
-
 <br>
+<h3 align="center">✦ Main OS ✦</h3>
 
+<p align="center">
+  <img src="./assets/os.png" width="60" alt="Linux Mint">
+</p>
+<br>
 <p align="center">
   ▮ Previously an Apple Engineer Intern @ Warner Bros. Discovery, contributing to HBO Max across iOS, tvOS and visionOS, with work deployed to millions of users. ▮
 </p>
